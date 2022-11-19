@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "type": "breakfast",
+        "img": "https://i.ibb.co/KbRGnzx/breakfast1.png",
+        "title": "Dim & Begun Baji ",
+        "price": 5,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 2,
+        "type": "breakfast",
+        "img": "https://i.ibb.co/phKs8W0/breakfast2.png",
+        "title": "Strawberryr Sathe Pawaroti",
+        "price": 3,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 3,
+        "type": "breakfast",
+        "img": "https://i.ibb.co/tK2BLXV/breakfast3.png",
+        "title": "Barger MoneHoy ",
+        "price": 10,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 4,
+        "type": "breakfast",
+        "img": "https://i.ibb.co/s668Dc2/breakfast4.png",
+        "title": "Dim & Pawroti ",
+        "price": 2,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 5,
+        "type": "breakfast",
+        "img": "https://i.ibb.co/xXsknGg/breakfast5.png",
+        "title": "Pawroti & Tetul",
+        "price": 2,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 6,
+        "type": "breakfast",
+        "img": "https://i.ibb.co/SB1M2Ps/breakfast6.png",
+        "title": "Dim & PataLota",
+        "price": 3,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    }
+]

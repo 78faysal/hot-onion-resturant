@@ -1,0 +1,23 @@
+[
+    {
+        "id": 19,
+        "type": "choose-us",
+        "img": "https://i.ibb.co/2cGs5QV/adult-blur-blurred-background-687824.png",
+        "title": "Fast Delibery",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 20,
+        "type": "choose-us",
+        "img": "https://i.ibb.co/nDB5jnc/chef-cook-food-33614.png",
+        "title": "Good Cookers",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 21,
+        "type": "choose-us",
+        "img": "https://i.ibb.co/c3T2Fgy/architecture-building-city-2047397.png",
+        "title": "Home Delibery",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    }
+]

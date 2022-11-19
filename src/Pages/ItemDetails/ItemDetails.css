@@ -1,0 +1,49 @@
+.details-section{
+    background-color: rgb(245, 245, 245);
+    text-align: left;
+}
+.in-de-btn{
+    margin-left: 15px;
+    border: 2px solid gray;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    text-align: center;
+}
+.in-de-btn span {
+    padding: 7px;
+    font-weight: bold;
+}
+.value{
+    border: 1px solid gray;
+    border-top: none;
+    border-bottom: none;
+}
+.buttons{
+    height: 40px;
+}
+.decreaseBtn{
+    background-color: white;
+    color: black;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+.value{
+    background-color: whitesmoke;
+    color: black;
+}
+.increaseBtn{
+    background-color: white;
+    color: black;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+.itemDetail-img{
+    width: 450px;
+}
+@media screen and (max-width: 688px){
+    .itemDetail-img{
+        width: 320px;
+        flex-wrap: wrap-reverse;
+    }
+}

@@ -1,0 +1,8 @@
+.banner-tittle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    height: 100%;
+    width: 100%;
+}

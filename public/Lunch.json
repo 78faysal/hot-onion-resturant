@@ -1,0 +1,50 @@
+[
+    {
+        "id": 13,
+        "type": "lunch",
+        "img": "https://i.ibb.co/2kYdf03/lunch1.png",
+        "title": "Baja Gosto",
+        "price": 15,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 14,
+        "type": "lunch",
+        "img": "https://i.ibb.co/8zJs73G/lunch2.png",
+        "title": "Murgir Gosto",
+        "price": 13,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 15,
+        "type": "lunch",
+        "img": "https://i.ibb.co/pd1YkwY/lunch3.png",
+        "title": "Pettize",
+        "price": 3,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 16,
+        "type": "lunch",
+        "img": "https://i.ibb.co/KhwvY30/lunch4.png",
+        "title": "Gosto R Ruti",
+        "price": 20,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 17,
+        "type": "lunch",
+        "img": "https://i.ibb.co/LrhTZXG/lunch5.png",
+        "title": "Murgi R Bhat",
+        "price": 10,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 18,
+        "type": "lunch",
+        "img": "https://i.ibb.co/G32DWDD/lunch6.png",
+        "title": "Cake & Alu",
+        "price": 5,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    }
+]

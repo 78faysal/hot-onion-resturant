@@ -1,0 +1,50 @@
+[
+    {
+        "id": 7,
+        "type": "dinner",
+        "img": "https://i.ibb.co/7nH08FR/dinner1.png",
+        "title": "Peyaj & Cake",
+        "price": 5,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 8,
+        "type": "dinner",
+        "img": "https://i.ibb.co/31hmgWc/dinner2.png",
+        "title": "Shak & Cake",
+        "price": 4,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 9,
+        "type": "dinner",
+        "img": "https://i.ibb.co/HPPQ9xS/dinner3.png",
+        "title": "Cake & Tomato",
+        "price": 7,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 10,
+        "type": "dinner",
+        "img": "https://i.ibb.co/98HsqTG/dinner4.png",
+        "title": "Moric & Makhon",
+        "price": 10,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 11,
+        "type": "dinner",
+        "img": "https://i.ibb.co/8g6ctHc/dinner5.png",
+        "title": "Bhon & Sakh",
+        "price": 6,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    },
+    {
+        "id": 12,
+        "type": "dinner",
+        "img": "https://i.ibb.co/WWBtZ05/dinner6.png",
+        "title": "Sakh R Mangsho",
+        "price": 12,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, cupiditate."
+    }
+]
